@@ -1,0 +1,5 @@
+data/
+*.csv
+*.fa
+*.clustal*
+.ipynb_checkpoints
