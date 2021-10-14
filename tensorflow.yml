@@ -1,0 +1,28 @@
+name: tensorflow
+
+channels:
+    - conda-forge
+    - anaconda
+dependencies:
+    - python=3.8
+    - pip>=19.0
+    - ipykernel
+    - jupyter
+    - jupyterlab
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - pip:
+        - tensorflow==2.4
+        - bayesian-optimization
+        - gym
+        - kaggle
