@@ -3,3 +3,4 @@ data/
 *.fa
 *.clustal*
 .ipynb_checkpoints
+*.pdf
