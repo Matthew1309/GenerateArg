@@ -16,3 +16,10 @@ around with the architecture. Learn how to split the data into training and vali
 is the key.
 
 ## CNN_LSTM.ipynb: Contains Jason Brownlee's moving square problem.
+An LSTM that has a CNN on the front that works as a 2D feature extractor. This lets us optimally process 
+things like videos.
+### Next steps
+Understand how the CNN actually works, and the ```TimeDistributed``` layer.
+
+## Enc_Dec_LSTM.ipynb: Contains Jason Brownlee's addition prediction problem.
+Good for seq2seq type problems (which is what I have I think?)

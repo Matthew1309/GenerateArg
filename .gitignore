@@ -4,3 +4,6 @@ data/
 *.clustal*
 .ipynb_checkpoints
 *.pdf
+*.invalid
+LSTM_models/
+*.swp
